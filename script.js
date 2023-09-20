@@ -172,7 +172,6 @@ function init() {
     lightModeProperties();
   }
 
-
   //by default, pranaygupta ki info show krre h UI pr
   getUserData(url + "needa01");
 }
